@@ -1,4 +1,5 @@
 # Mini Country Network Simulation
+### About the project
 We simulated a small network using Cisco Packet Tracer for a country with five ministries and one main building, referred to as the Executive Mansion. Each ministry has its own functions and services. All VLANs communicate through different mediums. Various protocols distribute IP addresses, enforce restrictions, and allow communications.
 <br>
 

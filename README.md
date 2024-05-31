@@ -5,7 +5,7 @@ We simulated a small network using Cisco Packet Tracer for a country with five m
 
 <img width="946" alt="Screenshot 2024-05-30 at 6 20 43 PM" src="https://github.com/CelineHarakee/Mini-Country-Network-Simulation/assets/126262323/6d2c29d9-55ae-4c78-bd17-dc59d8c2b094">
 
-### Services Used:
+### Services Used
 - Cisco Packet Tracer
 
 ### Contributors
